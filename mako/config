@@ -1,0 +1,13 @@
+font=JetBrainsMono NF ExtraBold
+background-color=#2e3440
+text-color=#eceff4
+border-color=#a3be8c
+border-radius=6
+border-size=3
+
+max-visible=10
+default-timeout=5000
+
+anchor=bottom-right
+margin=10
+outer-margin=10,10,20
